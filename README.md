@@ -2,7 +2,6 @@
 
 An innovative web application that leverages artificial intelligence to help users create unique and engaging stories. Built with React, TypeScript, and modern web technologies.
 
-![AI Story Generator](https://source.unsplash.com/random/1200x630/?book,writing)
 
 ## ✨ Features
 
