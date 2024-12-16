@@ -73,15 +73,17 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Aryan Acharya**
 
-- GitHub: [@aryanacharya2004](https://github.com/aryanacharya2004)
-- LinkedIn: [Aryan Acharya](https://linkedin.com/in/aryanacharya2004)
+- GitHub: [aryan1112003](https://github.com/aryan1112003/AI-Story-Generator)
+- LinkedIn: [Aryan Acharya](https://www.linkedin.com/in/aryan-acharya-9b939b316/)
 
 ## 🙏 Acknowledgments
 
-- Thanks to all contributors who have helped shape this project
 - Inspired by the power of AI in creative writing
 - Special thanks to the open-source community
 
 ---
+
+![Screenshot 2024-12-16 115703](https://github.com/user-attachments/assets/7ee5ea53-d580-4151-9498-e074f74c3883)
+
 
 <p align="center">Made with ❤️ by Aryan Acharya</p>
